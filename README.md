@@ -92,3 +92,24 @@ src
   - Wat dit project doet
   - Welke technieken je hebt gebruikt
   - Hoe een developer zonder verstand van frontend, dit project zelfstandig kan installeren en starten;
+
+--------------------------------------------
+
+# Voor de gebruiker:
+
+Er is bij dit project gebruik gemaakt van React!
+React is een Library van JavaScript.
+Voor User interfaces.
+
+Dit project haalt de meest recente data op van 
+###### reddit
+
+eerst in terminal:
+- npm install
+- install react-router-dom
+- install axios
+
+  daarna in terminal:
+- npm start
+
+Om het project te starten in je webbrowser.
